@@ -1,0 +1,17 @@
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\Dados\DesafioDB.db
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\WebApp_Desafio_BackEnd.dll.config
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\WebApp_Desafio_BackEnd.dll
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\WebApp_Desafio_BackEnd.pdb
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csproj.AssemblyReference.cache
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.csproj.CopyComplete
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.dll
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_BackEnd\obj\Debug\WebApp_Desafio_BackEnd.pdb

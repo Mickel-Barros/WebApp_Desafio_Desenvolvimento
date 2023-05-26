@@ -1,0 +1,10 @@
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.AssemblyReference.cache
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.exe.config
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.exe
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\bin\Debug\WinForm_Desafio_Reports.pdb
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.Properties.Resources.resources
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.GenerateResource.cache
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.csproj.CoreCompileInputs.cache
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.exe
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WinForm_Desafio_Reports\obj\Debug\WinForm_Desafio_Reports.pdb
