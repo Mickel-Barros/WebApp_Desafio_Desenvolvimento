@@ -16,42 +16,34 @@
 
     $('#btnSalvar').click(function () {
 
-        let dataAtual = new Date(Date.now());
-        let dataSelecionada = $('#DataAbertura.form-control');
-        let dataFormatada = new Date(dataSelecionada.val());
-        let dataSeguinte = new Date(dataFormatada.getFullYear(), dataFormatada.getMonth(), dataFormatada.getDate() + 2);
-
-        if (dataSeguinte < dataAtual) {
-            Swal.fire({
-                text: "A data selecionada é retroativa. Por favor, escolha uma data atual ou futura.",
-                confirmButtonText: 'OK',
-                icon: 'error'
-            });
+        if ($('#form').valid() != true) {
+            FormularioInvalidoAlert();
             return;
         }
 
-        let chamado = SerielizeForm($('#form'));
+        let departamento = SerielizeForm($('#form'));
         let url = $('#form').attr('action');
         //debugger;
 
         $.ajax({
             type: "POST",
             url: url,
-            data: chamado,
+            data: departamento,
             success: function (result) {
-                let mensagem = chamado.ID !== "0" ? "Chamado editado com sucesso!" : result.Message;
+                let mensagem = departamento.ID !== "0" ? "Departamento editado com sucesso!" : result.Message;
                 Swal.fire({
                     type: result.Type,
                     title: result.Title,
-                    text: mensagem
+                    text: mensagem,
                 }).then(function () {
                     window.location.href = config.contextPath + result.Controller + '/' + result.Action;
                 });
 
             },
             error: function (result) {
+
                 Swal.fire({
-                    text: result.responseJSON.Message,
+                    text: result.statusText,
                     confirmButtonText: 'OK',
                     icon: 'error'
                 });

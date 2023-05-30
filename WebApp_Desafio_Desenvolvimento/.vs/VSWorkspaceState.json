@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApp_Desafio_FrontEnd",
+    "\\WebApp_Desafio_FrontEnd\\Views",
+    "\\WebApp_Desafio_FrontEnd\\wwwroot",
+    "\\WebApp_Desafio_FrontEnd\\wwwroot\\js",
+    "\\WebApp_Desafio_FrontEnd\\wwwroot\\js\\Chamados",
+    "\\WebApp_Desafio_FrontEnd\\wwwroot\\js\\Departamentos"
   ],
+  "SelectedNode": "\\WebApp_Desafio_FrontEnd\\wwwroot\\js\\Chamados\\Cadastrar.js",
   "PreviewInSolutionExplorer": false
 }

@@ -19,7 +19,7 @@ namespace WebApp_Desafio_API.Controllers
         private DepartamentosBLL bll = new DepartamentosBLL();
 
         /// <summary>
-        /// Lista todos os departamento
+        /// Lista todos os departamentos
         /// </summary>
         /// <returns></returns>
         [HttpGet]
@@ -118,6 +118,10 @@ namespace WebApp_Desafio_API.Controllers
             {
                 if (request == null)
                     throw new ArgumentNullException("Request não informado.");
+                if(request.descricao == null)
+                    throw new ArgumentNullException("Descricao não informada.");
+                if (request.descricao.Length > 64)
+                    throw new ArgumentException("O comprimento da Descricao é inválido. Deve ter no máximo 64 dígitos.");
 
                 var resultado = this.bll.GravarDepartamento(request.id, request.descricao);
 

@@ -105,7 +105,7 @@ namespace WebApp_Desafio_FrontEnd.Controllers
         [HttpGet]
         public IActionResult Editar([FromRoute] int id)
         {
-            ViewData["Title"] = "Cadastrar Novo Chamado";
+            ViewData["Title"] = "Editar Chamado";
 
             try
             {

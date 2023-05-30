@@ -37,3 +37,4 @@ C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_Fro
 C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.pdb
 C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.genruntimeconfig.cache
 C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\WebApp_Desafio_FrontEnd.csproj.CopyComplete
+C:\Users\Mickel Barros\Desktop\WebApp_Desafio_Desenvolvimento\WebApp_Desafio_FrontEnd\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Cadastrar.cshtml.g.cs

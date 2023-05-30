@@ -18,14 +18,14 @@
             <div class="row">
                 <div class="form-group col-lg-7 col-md-6 col-sm-12">
                     <label class="form-label" asp-for="Assunto"></label>
-                    <input type="text" class="form-control" asp-for="Assunto">
+                    <input type="text" class="form-control" asp-for="Assunto" maxLength="128">
                     <span class="text-danger" asp-validation-for="Assunto"></span>
                 </div>
             </div>
             <div class="row">
                 <div class="form-group col-lg-7 col-md-6 col-sm-12">
                     <label class="form-label" asp-for="Solicitante"></label>
-                    <input type="text" class="form-control" asp-for="Solicitante">
+                    <input type="text" class="form-control" asp-for="Solicitante" maxLength="64">
                     <span class="text-danger" asp-validation-for="Solicitante"></span>
                 </div>
             </div>
@@ -51,13 +51,10 @@
             </div>
             <div class="row">
                 <div class="form-group col-lg-3 col-md-3 col-sm-3">
-                    <label class="form-label" asp-for="DataAbertura"></label>
+                    <label class="form-label" asp-for="DataAbertura">Data Abertura</label>
 
                     <div class="input-group date" data-provide="datepicker">
-                        <input type="text" class="form-control" asp-for="DataAbertura" asp-format="{0:dd/MM/yyyy}" />
-                        <div class="input-group-addon">
-                            <span class="glyphicon glyphicon-calendar"></span>
-                        </div>
+                        <input type="date" class="form-control" asp-for="DataAbertura"/>
                     </div>
                     <span class="text-danger" asp-validation-for="DataAbertura"></span>
                 </div>

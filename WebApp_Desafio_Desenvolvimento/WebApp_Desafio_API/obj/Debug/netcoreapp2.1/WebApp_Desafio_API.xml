@@ -39,7 +39,7 @@
         </member>
         <member name="M:WebApp_Desafio_API.Controllers.DepartamentosController.Listar">
             <summary>
-            Lista todos os departamento
+            Lista todos os departamentos
             </summary>
             <returns></returns>
         </member>
